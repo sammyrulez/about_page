@@ -1,8 +1,6 @@
-## Welcome to GitHub Pages
+## Sam Reghenzi
 
-You can use the [editor on GitHub](https://github.com/sammyrulez/about_page/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Senior Application Developer and Software Architect in a wide variety of business applications. API Design, Machine learning, Domain Driven Design, Event Sourcing and functional programming
 
 ### Markdown
 
