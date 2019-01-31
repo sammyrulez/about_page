@@ -1,3 +1,9 @@
 theme: jekyll-theme-tactile
 title: Sam Reghenzi
 description: "Software craftsman"
+languages: ["en", "it"]
+exclude_from_localizations: ["assets", "CNAME"]
+defaultLang: en
+languageNames:
+  it: Italian
+  en: English
